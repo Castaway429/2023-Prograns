@@ -1,0 +1,8 @@
+- Removed the ability to scale full screen probably too much work
+- Made all x and y not really scalable to smaller or bigger monitors when bliting beware!
+- Under the player Class         
+
+        #Would have been 
+        #self.rect.y += self.velyY
+        #but i removed it because it gave me the jump i liked the most
+

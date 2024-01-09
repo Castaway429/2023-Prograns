@@ -1,0 +1,1 @@
+pygame.display.set_mode((screen_width, screen_height), pygame.FULLSCREEN)
